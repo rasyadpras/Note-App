@@ -1,0 +1,16 @@
+import React from "react";
+
+const Search = ({ onSearch }) => {
+
+    const onSearchbarChange = (event) => {
+        onSearch(event.target.value);
+    } 
+
+    return (
+        <div className="note-search">
+            <input type="text" placeholder="Search notes..." onChange={onSearchbarChange} />
+        </div>
+    )
+}
+
+export default Search;
