@@ -24,9 +24,9 @@ Proyek ini dibangun sebagai proyek akhir di kelas [Belajar Membuat Aplikasi Web 
 
 Rating : ⭐⭐⭐
 
-Dokumen Pendukung : [Sertifikat](https://www.dicoding.com/certificates/07Z6GJ4LYXQR)
-
 #### Link Preview
 
 - [Github Pages](https://rasyadpras.github.io/Note-App/)
 - [Vercel](note-app-rasyadpras.vercel.app/)
+
+Dokumen Pendukung : [Sertifikat](https://www.dicoding.com/certificates/07Z6GJ4LYXQR)
