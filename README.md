@@ -12,7 +12,7 @@ Proyek ini dibangun sebagai proyek akhir di kelas [Belajar Membuat Aplikasi Web 
 
 ## Kriteria Tambahan (Opsional)
 
-- Terdapat Fitur Pencarian Catatan.
+- (Opsional) Terdapat Fitur Pencarian Catatan.
 
 ## Jalankan di Lokal
 
