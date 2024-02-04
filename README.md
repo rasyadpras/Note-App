@@ -10,6 +10,10 @@ Proyek ini dibangun sebagai proyek akhir di kelas [Belajar Membuat Aplikasi Web 
 - Mampu Menambahkan Catatan.
 - Mampu Menghapus Catatan.
 
+## Kriteria Tambahan (Opsional)
+
+-  Terdapat Fitur Pencarian Catatan.
+
 ## Jalankan di Lokal
 
 1. Clone repository.
